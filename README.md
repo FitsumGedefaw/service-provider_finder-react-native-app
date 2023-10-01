@@ -70,11 +70,6 @@ After runnig the above command, you can interact scan with QR code and interact 
 
 <br> <hr>
 
-## Group Members <r> 
-## Dawit Andargachew       -  UGR/****/12 <br> 
-## Fitsum Gedefaw          -  UGR/****/12 <br>
-## Joseph Birara           -  UGR/****/12 <br>
-
   
 <br><br>
 <hr>
